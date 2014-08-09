@@ -1,3 +1,3 @@
-#ISO 4217 Currency Codes Array
+#Servant Currency Code Array
 
-Merely an array of ISO 4217 Currency Codes as Strings.  Useful for validation.  Hope this saves you a few minutes of time!  Cheers :)
+A Javascript array of ISO 4217 Currency Codes as Strings.  Used in Servant's Content Archetypes.  Useful for validation.
